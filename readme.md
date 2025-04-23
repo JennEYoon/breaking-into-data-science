@@ -4,7 +4,7 @@ Class: April 7, 2025 - June 2, 2025
 
 # Project: Anamoly Detection for credit card fraud prediction      
 
- * Datsdats info:
+ * Datasets info:
 
  * Reference notebooks, papers, Kaggle challenges   
 
@@ -12,7 +12,7 @@ Class: April 7, 2025 - June 2, 2025
 ### Proposal  
 to write  
 
-### Dataset  
+### Datasets    
 
 
 ### Methods   
