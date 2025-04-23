@@ -4,7 +4,7 @@ Stanford Tech 07, Breaking into Data Science, Spring 2025, Stanford continuing e
 Repo by Jennifer E Yoon (student)  
 Class materials are by Grace S Tang (professor)   
 
-# My Project: Anamoly Detection for credit card fraud prediction      
+# My Project: Anamoly Detection Methods used for credit card fraud detection      
 
  * Datasets info:
 
