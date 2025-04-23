@@ -2,9 +2,12 @@
 
 Class: April 7, 2025 - June 2, 2025  
 
-# Project: Anamoly Detection for credit card fraud   
+# Project: Anamoly Detection for credit card fraud prediction      
 
- * Datsdet info:
+ * Datsdats info:
+
+ * Reference notebooks, papers, Kaggle challenges   
+
 
 ### Proposal  
 to write  
