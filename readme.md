@@ -1,8 +1,10 @@
 # Braking into Data Science info  
+Stanford Tech 07, Breaking into Data Science, Spring 2025, Stanford continuing education class, professor Grace S. Tang, dates: April 7, 2025 - June 2, 2025.  
 
-Class: April 7, 2025 - June 2, 2025  
+Repo by Jennifer E Yoon (student)  
+Class materials are by Grace S Tang (professor)   
 
-# Project: Anamoly Detection for credit card fraud prediction      
+# My Project: Anamoly Detection for credit card fraud prediction      
 
  * Datasets info:
 
