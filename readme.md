@@ -7,32 +7,12 @@ Class materials are by Grace S Tang (professor)
 # My Project: 
 ResNet with Squeeze-and-Excitation blocks for use with multi-signal large ECG datasets.
 
- * Datasets info:
-
- * Reference notebooks, papers, Kaggle challenges   
+Proposal submitted: <a href="./proposal.md" >proposal.md</a> 
 
 
-### Proposal  
-submitted: <a href="./proposal.md" >proposal.md</a> 
-
-### Datasets    
 
 
-### Methods   
 
-
-### research, papers, methods tried before   
-
-
-### report writing, blog post writing   
-
-
-### Colab jupyter notebook, figures, diagrams, summary tables.  
-
-
-### video tutorial   
-
-### Marketing, Publish to other sites.  
 
 
 
