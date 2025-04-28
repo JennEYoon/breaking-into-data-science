@@ -4,7 +4,7 @@ Stanford Tech 07, Breaking into Data Science, Spring 2025, Stanford continuing e
 Repo by Jennifer E Yoon (student)  
 Class materials are by Grace S Tang (professor)   
 
-# My Project: Anamoly Identification Methods used for credit card fraud prevention        
+# My Project: ResNet with Squeeze-and-Excitation blocks for use with multi-signal large ECG datasets.
 
  * Datasets info:
 
@@ -19,11 +19,6 @@ to write
 
 ### Methods   
 
- * feature extraction
- * XGBoost, random forest
- * repeated transactions to same entity
- * clustering
- * PCA?
 
 ### research, papers, methods tried before   
 
