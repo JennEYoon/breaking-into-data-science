@@ -13,7 +13,7 @@ ResNet with Squeeze-and-Excitation blocks for use with multi-signal large ECG da
 
 
 ### Proposal  
-to write  
+submitted: 
 
 ### Datasets    
 
