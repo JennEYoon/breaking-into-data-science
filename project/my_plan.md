@@ -5,7 +5,9 @@ Date:   May 26, 2025
 
 ### Plan of action:  
 
- * Write out presentation draft & slides (3-5). 2 minutes.  
+ * Write out presentation draft & slides (3-5). 2 minutes.
+   * Get plots, Geron image ResNet+SE, CNN architecture, simple diagram.
+   * Signup for paid plan, Claud Code or OpenAI?  
  * work with g1 folder first, 1000 files (12 x 10 sec * 5000 samples/sec)
    and 1000 header text files.
  * Do exploratory data analysis for class project on this folder.
