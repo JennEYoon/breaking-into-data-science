@@ -13,7 +13,8 @@ Date:   May 26, 2025
    * plots
    * text explanation of model architecture
    * description of Jason's ECG device, signal output sample & processing information
-   * inference using Jason's device  
+   * inference using Jason's device
+  * dataset - link to tiny pre-processed data, in .csv form?  
   
 #### Data files, refactoring header, data, many files into 2 outputs   
  * Use example from forked repo, data exploratory notebook.  
