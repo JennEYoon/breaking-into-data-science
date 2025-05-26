@@ -26,7 +26,9 @@ Date:   May 26, 2025
    > ***forked repo*** shows how to process header text into rows with file names, diagnostic info, age, sex info.
    > sample nb reads header file into dataframe, return 1 row per file, then saves multiple rows into one .csv out file.
    > do same with my method. Find baseline zero centering method.
-   > 
+   > "main" branch has code for ResNet+SE model. Trained all many different hospital datasets. Some were used only for testing.
+
+#### contents, plots, notebook      
  * Signal data, read into and do a few charts. Show splitting?  Maybe just one.
    Some plotting, shoiwng 12 signals, how split into 1 heart beat x 12 channels.
  * Do CNN, after converting signal data into peak centered samples, .csv format, just this folder. Class is binary, and 4 or 6.  Map diagnostic classes into larger groups before training.  Try with all 24 classes once. 20-50 epochs final model.
