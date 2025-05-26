@@ -123,4 +123,10 @@ Great — here’s a 5-slide outline for your presentation graphic comparing **R
 
 Would you like help turning this into a slide deck with visuals and content filled in? I can generate figures or help you code the visualizations if needed.
 
+# Images:  
+ChatGPT generated image bad. Took really long time.  
+Scan Geron chapter, image on ResNet+SE.  
+
+Also online book: could have useful code, images.  
+Saved on ECG-OneNote, local computer C:/python/repos path.  
 
