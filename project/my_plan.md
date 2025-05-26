@@ -8,12 +8,15 @@ Date:   May 26, 2025
  * Write out presentation draft & slides (3-5). 2 minutes.
    * Get plots, Geron image ResNet+SE, CNN architecture, simple diagram.
    * Signup for paid plan, Claud Code or OpenAI?  
- * work with g1 folder first, 1000 files (12 x 10 sec * 5000 samples/sec)
-   and 1000 header text files.
+ * work with g1 folder first, 1000 files (12 signals x 10 sec * 500 samples/sec)
+   and 1000 header text files. 
  * Do exploratory data analysis for class project on this folder.
    Only matter header data, count, abnormal diagnostic distribution.
    Reformat header information into a database, or Pandas DataFrame, save as csv format.
-   > ***forked repo*** shows how to process header text into rows with file names, diagnostic info, age, sex info.  
+   > ***forked repo*** shows how to process header text into rows with file names, diagnostic info, age, sex info.
+   > sample nb reads header file into dataframe, return 1 row per file, then saves multiple rows into one .csv out file.
+   > do same with my method. Find baseline zero centering method.
+   > 
  * Signal data, read into and do a few charts. Show splitting?  Maybe just one.
    Some plotting, shoiwng 12 signals, how split into 1 heart beat x 12 channels.
  * Do CNN, after converting signal data into peak centered samples, .csv format, just this folder. Class is binary, and 4 or 6.  Map diagnostic classes into larger groups before training.  Try with all 24 classes once. 20-50 epochs final model.
