@@ -5,9 +5,18 @@ Date:   May 26, 2025
 
 ### Plan of action:  
 
+#### Deliverables:  
  * Write out presentation draft & slides (3-5). 2 minutes.
    * Get plots, Geron image ResNet+SE, CNN architecture, simple diagram.
-   * Signup for paid plan, Claud Code or OpenAI?  
+   * Signup for paid plan, Claud Code or OpenAI? 
+ * one Jupyter notebook
+   * plots
+   * text explanation of model architecture
+   * description of Jason's ECG device, signal output sample & processing information
+   * inference using Jason's device  
+  
+#### Data files, refactoring header, data, many files into 2 outputs   
+ * Use example from forked repo, data exploratory notebook.  
  * work with g1 folder first, 1000 files (12 signals x 10 sec * 500 samples/sec)
    and 1000 header text files. 
  * Do exploratory data analysis for class project on this folder.
