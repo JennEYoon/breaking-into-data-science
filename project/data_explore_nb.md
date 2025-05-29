@@ -1,5 +1,7 @@
 https://github.com/JennEYoon/dl-ecg-classifier/blob/main/notebooks/exploration_physionet2021_data.ipynb
 
+notebooks/exploration_physionet2021_data.ipynb  
+
 Has everything I need for class project.  
 Exploratory data plots using seaborn  
 
